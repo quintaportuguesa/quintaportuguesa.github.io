@@ -111,6 +111,10 @@
   text-align: center;
   padding: 2em;
   font-weight: 500;
+  color: #fff;
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .benefits {
@@ -212,6 +216,7 @@
 
 .detail img {
   width: 50%;
+
 }
 
 .detail h3 {
