@@ -364,7 +364,7 @@
   }
 
   #about-location p {
-    display: none;
+    margin-top: 20px;
   }
 
   /* Event details container */
